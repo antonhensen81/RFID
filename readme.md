@@ -1,0 +1,7 @@
+TTFGO T-DISPLAY, pins:
+
+MISO - 27
+MOSI - 26
+CLK - 25
+CS - 33
+RST - 17
